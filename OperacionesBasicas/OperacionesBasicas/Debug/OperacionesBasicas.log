@@ -1,0 +1,4 @@
+﻿  OperaBasic.cpp
+c:\users\lalom\documents\visual studio 2017\projects\operacionesbasicas\operacionesbasicas\operabasic.cpp(154): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  OperacionesBasicas.vcxproj -> c:\users\lalom\documents\visual studio 2017\Projects\OperacionesBasicas\Debug\OperacionesBasicas.exe
+  OperacionesBasicas.vcxproj -> c:\users\lalom\documents\visual studio 2017\Projects\OperacionesBasicas\Debug\OperacionesBasicas.pdb (Partial PDB)
